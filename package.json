@@ -1,0 +1,16 @@
+{
+  "name": "terradata-web",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=18.x"
+  },
+  "dependencies": {
+    "@netlify/functions": "^2.0.0",
+    "firebase-admin": "^11.5.0",
+    "node-fetch": "^2.6.9" 
+  }
+}
+
+
+
+
